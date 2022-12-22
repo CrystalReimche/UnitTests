@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldsDumbestTest", "WorldsDumbestTest\WorldsDumbestTest.csproj", "{264F685D-C69D-4C54-8A70-2D18FFE3CBA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility", "NetworkUtility\NetworkUtility.csproj", "{63C78020-43E9-439D-A7FA-C859694B35CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility.Tests", "NetworkUtility.Tests\NetworkUtility.Tests.csproj", "{9CE42F36-ADA0-4213-B2DE-13314B13A0D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{264F685D-C69D-4C54-8A70-2D18FFE3CBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{264F685D-C69D-4C54-8A70-2D18FFE3CBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{264F685D-C69D-4C54-8A70-2D18FFE3CBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C78020-43E9-439D-A7FA-C859694B35CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C78020-43E9-439D-A7FA-C859694B35CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C78020-43E9-439D-A7FA-C859694B35CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C78020-43E9-439D-A7FA-C859694B35CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE42F36-ADA0-4213-B2DE-13314B13A0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE42F36-ADA0-4213-B2DE-13314B13A0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE42F36-ADA0-4213-B2DE-13314B13A0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE42F36-ADA0-4213-B2DE-13314B13A0D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
