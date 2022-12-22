@@ -10,7 +10,7 @@ namespace WorldsDumbestTest.Tests
             try
             {
                 // Arrange - Go get variables needed to run this function
-                int num = 1;
+                int num = 0;
                 WorldsDumbestFunction worldsDumbestFunction = new WorldsDumbestFunction();
 
                 // Act - Execute this function
